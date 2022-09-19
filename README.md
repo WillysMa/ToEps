@@ -1,2 +1,2 @@
 # ToEps
-A tool to quickly generate EPS figure.
+This is a simple tool to transfome any figure to EPS format.
